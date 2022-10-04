@@ -1,0 +1,27 @@
+[
+    {
+        "category_id":1,
+        "category_name":"smart watches",
+        "category_image":""
+    },
+    {
+        "category_id":2,
+        "category_name":"ear buds",
+        "category_image":""
+    },
+    {
+        "category_id":3,
+        "category_name":"headphones",
+        "category_image":""
+    },
+    {
+        "category_id":4,
+        "category_name":"keyboards",
+        "category_image":""
+    },
+    {
+        "category_id":5,
+        "category_name":"mouse",
+        "category_image":""
+    }
+]

@@ -1,0 +1,215 @@
+[
+    {
+        "category_id":1,
+        "category_name":"smart watches",
+        "product_id":11,
+        "product_name":"iconic",
+        "product_price":9999,
+        "product_img":[]
+    },
+    {
+        "category_id":1,
+        "category_name":"smart watches",
+        "product_id":12,
+        "product_name":"Zeb-Fit4220CH",
+        "product_price":7999,
+        "product_img":[]
+    },
+    {
+        "category_id":1,
+        "category_name":"smart watches",
+        "product_id":13,
+        "product_name":"Zeb-Fit6220CH",
+        "product_price":7799,
+        "product_img":[]
+    },
+    {
+        "category_id":1,
+        "category_name":"smart watches",
+        "product_id":14,
+        "product_name":"Zeb-Fit7220CH",
+        "product_price":7499,
+        "product_img":[]
+    },
+    {
+        "category_id":1,
+        "category_name":"smart watches",
+        "product_id":15,
+        "product_name":"Drip",
+        "product_price":6499,
+        "product_img":[]
+    },
+
+
+
+
+    {
+        "category_id":2,
+        "category_name":"ear buds",
+        "product_id":21,
+        "product_name":"Zeb-Sound Bomb Q Pro",
+        "product_price":5599,
+        "product_img":[]
+    },
+    {
+        "category_id":2,
+        "category_name":"ear buds",
+        "product_id":22,
+        "product_name":"Zeb-Sound Bomb Q",
+        "product_price":4999,
+        "product_img":[]
+    },
+    {
+        "category_id":2,
+        "category_name":"ear buds",
+        "product_id":23,
+        "product_name":"Zeb-Sound Bomb 7",
+        "product_price":4299,
+        "product_img":[]
+    },
+    {
+        "category_id":2,
+        "category_name":"ear buds",
+        "product_id":24,
+        "product_name":"Zeb-Sound Bomb N2",
+        "product_price":4199,
+        "product_img":[]
+    },
+    {
+        "category_id":2,
+        "category_name":"ear buds",
+        "product_id":25,
+        "product_name":"Zeb-Sound Bomb N1",
+        "product_price":4199,
+        "product_img":[]
+    },
+
+
+
+    {
+        "category_id":3,
+        "category_name":"headphones",
+        "product_id":31,
+        "product_name":"Zeb-Duke",
+        "product_price":2499,
+        "product_img":[]
+    },
+    {
+        "category_id":3,
+        "category_name":"headphones",
+        "product_id":32,
+        "product_name":"Zeb-Duke 2",
+        "product_price":2199,
+        "product_img":[]
+    },
+    {
+        "category_id":3,
+        "category_name":"headphones",
+        "product_id":33,
+        "product_name":"Zeb-Dynamic",
+        "product_price":1999,
+        "product_img":[]
+    },
+    {
+        "category_id":3,
+        "category_name":"headphones",
+        "product_id":34,
+        "product_name":"Zeb-Thunder Pro",
+        "product_price":1999,
+        "product_img":[]
+    },
+    {
+        "category_id":3,
+        "category_name":"headphones",
+        "product_id":35,
+        "product_name":"Zeb-Duke 101",
+        "product_price":1899,
+        "product_img":[]
+    },
+
+
+
+    {
+        "category_id":4,
+        "category_name":"keyboards",
+        "product_id":41,
+        "product_name":"ZEB-K5000MW",
+        "product_price":3199,
+        "product_img":[]
+    },
+    {
+        "category_id":4,
+        "category_name":"keyboards",
+        "product_id":42,
+        "product_name":"Zeb-Nitro 1",
+        "product_price":2999,
+        "product_img":[]
+    },
+    {
+        "category_id":4,
+        "category_name":"keyboards",
+        "product_id":43,
+        "product_name":"ZEB-K4000M",
+        "product_price":1499,
+        "product_img":[]
+    },
+    {
+        "category_id":4,
+        "category_name":"keyboards",
+        "product_id":44,
+        "product_name":"Zeb-K24",
+        "product_price":799,
+        "product_img":[]
+    },
+    {
+        "category_id":4,
+        "category_name":"keyboards",
+        "product_id":45,
+        "product_name":"Zeb-Glide",
+        "product_price":699,
+        "product_img":[]
+    },
+
+
+
+    {
+        "category_id":5,
+        "category_name":"mouse",
+        "product_id":51,
+        "product_name":"Zeb-Kai",
+        "product_price":1499,
+        "product_img":[]
+    },
+    {
+        "category_id":5,
+        "category_name":"mouse",
+        "product_id":52,
+        "product_name":"Zeb-Jaguar",
+        "product_price":1199,
+        "product_img":[]
+    },
+    {
+        "category_id":5,
+        "category_name":"mouse",
+        "product_id":53,
+        "product_name":"Zeb-Ako",
+        "product_price":999,
+        "product_img":[]
+    },
+    {
+        "category_id":5,
+        "category_name":"mouse",
+        "product_id":54,
+        "product_name":"Zeb-Shine",
+        "product_price":549,
+        "product_img":[]
+    },
+    {
+        "category_id":5,
+        "category_name":"mouse",
+        "product_id":55,
+        "product_name":"Zeb-Dash Plus",
+        "product_price":449,
+        "product_img":[]
+    }
+]
